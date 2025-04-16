@@ -78,7 +78,7 @@ function Home() {
         </div>
       </div>
       <div className="mt-[140px] mb-[140px]  text-center">
-        <span>Featured in</span>
+        <span>Featured In</span>
       </div>
     </div>
   );
