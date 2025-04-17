@@ -80,6 +80,9 @@ function Home() {
       <div className="mt-[140px] mb-[140px]  text-center">
         <span>Featured In</span>
       </div>
+      <div className="flex items-center justify-center gap-[52px] mb-[140px]">
+        <img src="./Mask group.svg" alt="company group name" className="w-[923px]" />
+      </div>
     </div>
   );
 }
